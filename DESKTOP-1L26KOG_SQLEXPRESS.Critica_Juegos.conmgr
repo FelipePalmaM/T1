@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-1L26KOG_SQLEXPRESS.Critica_Juegos"
+  DTS:DTSID="{40DED8BB-7D6B-4355-BACD-26A81A80C63F}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-1L26KOG\SQLEXPRESS;Initial Catalog=Critica_Juegos;Integrated Security=True;Application Name=SSIS-T1-{40DED8BB-7D6B-4355-BACD-26A81A80C63F}DESKTOP-1L26KOG\SQLEXPRESS.Critica_Juegos;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

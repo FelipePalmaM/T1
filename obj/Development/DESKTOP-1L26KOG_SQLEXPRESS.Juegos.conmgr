@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-1L26KOG_SQLEXPRESS.Juegos"
+  DTS:DTSID="{C520A712-50B5-4664-8508-C75DABBA7E14}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-1L26KOG\SQLEXPRESS;Initial Catalog=Juegos;Integrated Security=True;Application Name=SSIS-T1-{C520A712-50B5-4664-8508-C75DABBA7E14}DESKTOP-1L26KOG\SQLEXPRESS.Juegos;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
